@@ -44,10 +44,10 @@ Incluye el modelado completo de la base de datos desde el nivel conceptual hasta
  ┃ ┣ 📄 sistema_bibliografico.docx
  ┃ ┗ 📄 sistema_bibliografico.pdf
  ┣ 📂 diagrams
- ┃ ┣ 🖼️ modelo_er.png
- ┃ ┣ 🖼️ modelo_relacional.png
- ┃ ┣ 📄 modelo_er.dia
- ┃ ┗ 📄 modelo_relacional.dia
+ ┃ ┣ 🖼️ RelacionalSystemaBibliografia.png
+ ┃ ┣ 🖼️ SystemaBibliografia.png
+ ┃ ┣ 📄 ER-SystemaBibliografia.dia
+ ┃ ┗ 📄 RelacionalSystemaBibliografia.dia
  ┣ 📂 sql
  ┃ ┣ 📂 sqlserver
  ┃ ┃ ┣ 📄 01_CreateDatabase+Tables+Constraints.sql
@@ -58,11 +58,15 @@ Incluye el modelado completo de la base de datos desde el nivel conceptual hasta
  ┃ ┗ 📂 mysql
  ┃   ┗ 📄 script_completo.sql
  ┣ 📂 images
- ┃ ┣ 🖼️ fig1_er.png
- ┃ ┣ 🖼️ fig2_relacional.png
- ┃ ┗ 🖼️ fig_queries.png
+ ┃ ┣ 🖼️ ModeloER.png
+ ┃ ┣ 🖼️ ModeloRelacional.png
+ ┃ ┗ ...
  ┗ 📂 extras
-   ┗ 📄 notas.txt
+   ┣ decisiones.md
+   ┣ consultas_avanzadas.sql
+   ┣ pruebas.sql
+   ┣ mejoras_futuras.md
+   ┗ errores_detectados.md
 
 🧠 Modelo De Datos
 
